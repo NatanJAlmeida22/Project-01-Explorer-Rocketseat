@@ -1,5 +1,7 @@
 <h1 align="center"> Project-01-Explorer-Rocketseat</h1>
 
+<a href="https://natanjalmeida22.github.io/Project-01-Explorer-Rocketseat/">Visit site</a>
+
 <p align="center">
 Event promoted by Rocketseat for teaching WEB technologies
 </p>
