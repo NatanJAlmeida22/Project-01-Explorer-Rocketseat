@@ -7,7 +7,7 @@ Event promoted by Rocketseat for teaching WEB technologies
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <br>
@@ -25,7 +25,23 @@ This project was developed with the following technologies
 Project-01 was meant to introduce basic HTML and CSS concepts. In this project I had the opportunity to improve my knowledge about:
 
 - export Figma images and structure the project;
-- elements 'div', 'img', 'h1', 'a' and 'p';
+- elements &lsaquo;div&rsaquo;, &lsaquo;img&rsaquo;, &lsaquo;h1&rsaquo;, &lsaquo;a&rsaquo; and &lsaquo;p&rsaquo;;
 - properties src, href and id;
 - element position, respecting the HTML order (block and inline);
 - elements &lsaquo;span&rsaquo; and &lsaquo;strong&rsaquo;;
+- custom fonts and design stylization;
+- applying colors to the project texts according to the Figma layout;
+- a few CSS properties;
+- organization of CSS code and alignment of text and page elements using CSS properties "text-aling";
+- adjusting design text and line breaks as a way to use spaces;
+- CSS properties "margin" (was applied the "shorthand") in a code snippet and was adjusted the project spacings;
+- add a line to the page with the CSS property "border";
+- positioning of elements on the page using CSS property "position".
+<br>
+
+## #memo-license
+
+This project is under the MIT license.
+
+
+Create by Natan Almeida!
