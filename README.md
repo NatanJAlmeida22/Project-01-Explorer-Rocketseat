@@ -21,3 +21,11 @@ This project was developed with the following technologies
 - Figma
 
 ## Project
+
+Project-01 was meant to introduce basic HTML and CSS concepts. In this project I had the opportunity to improve my knowledge about:
+
+- export Figma images and structure the project;
+- elements 'div', 'img', 'h1', 'a' and 'p';
+- properties src, href and id;
+- element position, respecting the HTML order (block and inline);
+- elements &lsaquo;span&rsaquo; and &lsaquo;strong&rsaquo;;
