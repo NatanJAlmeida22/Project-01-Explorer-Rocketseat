@@ -1,6 +1,6 @@
 <h1 align="center"> Project-01-Explorer-Rocketseat</h1>
 
-<a aling="center" href="https://natanjalmeida22.github.io/Project-01-Explorer-Rocketseat/" target="_blank">Visit site</a>
+<a align="center" href="https://natanjalmeida22.github.io/Project-01-Explorer-Rocketseat/" target="_blank">Visit site</a>
 
 <p align="center">
 Event promoted by Rocketseat for teaching WEB technologies
